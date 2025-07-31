@@ -1,6 +1,0 @@
-[0m[[0m[0mdebug[0m] [0m[0m[zinc] IncrementalCompile -----------[0m
-[0m[[0m[0mdebug[0m] [0m[0mIncrementalCompile.incrementalCompile[0m
-[0m[[0m[0mdebug[0m] [0m[0mprevious = Stamps for: 43 products, 10 sources, 3 libraries[0m
-[0m[[0m[0mdebug[0m] [0m[0mcurrent source = Set(${BASE}/src/main/scala/com/adthena/basket/config/ConfigLoader.scala, ${BASE}/src/main/scala/com/adthena/basket/Main.scala, ${BASE}/src/main/scala/com/adthena/basket/domain/Product.scala, ${BASE}/src/main/scala/com/adthena/basket/domain/Basket.scala, ${BASE}/src/main/scala/com/adthena/basket/service/PricingService.scala, ${BASE}/src/main/scala/com/adthena/basket/config/OfferFactory.scala, ${BASE}/src/main/scala/com/adthena/basket/service/ProductService.scala, ${BASE}/src/main/scala/com/adthena/basket/domain/Offer.scala, ${BASE}/src/main/scala/com/adthena/basket/service/OfferService.scala, ${BASE}/src/main/scala/com/adthena/basket/utils/MoneyUtils.scala)[0m
-[0m[[0m[0mdebug[0m] [0m[0m> initialChanges = InitialChanges(Changes(added = Set(), removed = Set(), changed = Set(), unmodified = ...),Set(),Set(),API Changes: Set())[0m
-[0m[[0m[0mdebug[0m] [0m[0mNo changes[0m
