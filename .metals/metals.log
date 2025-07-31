@@ -344,3 +344,69 @@ exception caught when loading class module-info: java.lang.AssertionError: asser
 2025.07.31 01:02:35 INFO  compiling root (1 scala source)
 2025.07.31 01:02:35 INFO  time: compiled root in 0.13s
 exception caught when loading class module-info: java.lang.AssertionError: assertion failed: attempt to parse java.lang.Object from classfile
+exception caught when loading class module-info: java.lang.AssertionError: assertion failed: attempt to parse java.lang.Object from classfile
+2025.07.31 04:34:13 INFO  Created report: Optional[file:///Users/ayaz/Library/CloudStorage/OneDrive-Personal/Desktop/odmin-projects/scala-coursera/shopping-basket/src/main/scala/com/adthena/basket/service/OfferService.scala]
+2025.07.31 04:34:13 INFO  empty definition using pc, found symbol in pc: `<none>`. (full report at: "/Users/ayaz/Library/CloudStorage/OneDrive-Personal/Desktop/odmin-projects/scala-coursera/shopping-basket/.metals/.reports/metals-full/2025-07-31/r_empty-definition_(root)_04-34-13-115.md")
+2025.07.31 04:34:13 INFO  empty definition using pc, found symbol in pc: `<none>`. (full report at: "/Users/ayaz/Library/CloudStorage/OneDrive-Personal/Desktop/odmin-projects/scala-coursera/shopping-basket/.metals/.reports/metals-full/2025-07-31/r_empty-definition_(root)_04-34-13-115.md")
+2025.07.31 04:34:13 INFO  no build target found for /scala/collection/immutable/List.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.31 04:37:42 INFO  Created report: Optional[file:///Users/ayaz/Library/CloudStorage/OneDrive-Personal/Desktop/odmin-projects/scala-coursera/shopping-basket/src/main/scala/com/adthena/basket/config/OfferFactory.scala]
+2025.07.31 04:37:42 INFO  empty definition using pc, found symbol in pc: `<none>`. (full report at: "/Users/ayaz/Library/CloudStorage/OneDrive-Personal/Desktop/odmin-projects/scala-coursera/shopping-basket/.metals/.reports/metals-full/2025-07-31/r_empty-definition_(root)_04-37-42-387.md")
+2025.07.31 04:37:42 INFO  empty definition using pc, found symbol in pc: `<none>`. (full report at: "/Users/ayaz/Library/CloudStorage/OneDrive-Personal/Desktop/odmin-projects/scala-coursera/shopping-basket/.metals/.reports/metals-full/2025-07-31/r_empty-definition_(root)_04-37-42-387.md")
+2025.07.31 04:37:42 INFO  empty definition using pc, found symbol in pc: `<none>`. (full report at: "/Users/ayaz/Library/CloudStorage/OneDrive-Personal/Desktop/odmin-projects/scala-coursera/shopping-basket/.metals/.reports/metals-full/2025-07-31/r_empty-definition_(root)_04-37-42-387.md")
+2025.07.31 04:45:23 INFO  no build target found for /Users/ayaz/Library/CloudStorage/OneDrive-Personal/Desktop/odmin-projects/scala-coursera/shopping-basket/project/metals.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.31 04:45:23 INFO  no build target found for /Users/ayaz/Library/CloudStorage/OneDrive-Personal/Desktop/odmin-projects/scala-coursera/shopping-basket/project/metals.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.31 04:45:23 WARN  no build target for: /Users/ayaz/Library/CloudStorage/OneDrive-Personal/Desktop/odmin-projects/scala-coursera/shopping-basket/project/metals.sbt
+2025.07.31 04:45:23 INFO  no build target found for /Users/ayaz/Library/CloudStorage/OneDrive-Personal/Desktop/odmin-projects/scala-coursera/shopping-basket/project/metals.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.31 04:45:23 WARN  Could not find semantic tokens for: file:///Users/ayaz/Library/CloudStorage/OneDrive-Personal/Desktop/odmin-projects/scala-coursera/shopping-basket/project/metals.sbt
+2025.07.31 04:45:23 INFO  no build target found for /Users/ayaz/Library/CloudStorage/OneDrive-Personal/Desktop/odmin-projects/scala-coursera/shopping-basket/project/metals.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.31 04:45:23 INFO  no build target found for /Users/ayaz/Library/CloudStorage/OneDrive-Personal/Desktop/odmin-projects/scala-coursera/shopping-basket/project/metals.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.31 04:45:23 WARN  Could not find semantic tokens for: file:///Users/ayaz/Library/CloudStorage/OneDrive-Personal/Desktop/odmin-projects/scala-coursera/shopping-basket/project/metals.sbt
+2025.07.31 04:45:29 INFO  no build target found for /Users/ayaz/Library/CloudStorage/OneDrive-Personal/Desktop/odmin-projects/scala-coursera/shopping-basket/project/metals.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+Jul 31, 2025 5:00:03 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3556
+2025.07.31 06:23:53 INFO  tracing is disabled for protocol dap-server, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/ayaz/Library/CloudStorage/OneDrive-Personal/Desktop/odmin-projects/scala-coursera/shopping-basket/.metals/dap-server.trace.json or /Users/ayaz/Library/Caches/org.scalameta.metals/dap-server.trace.json
+2025.07.31 06:23:53 INFO  tracing is disabled for protocol dap-client, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/ayaz/Library/CloudStorage/OneDrive-Personal/Desktop/odmin-projects/scala-coursera/shopping-basket/.metals/dap-client.trace.json or /Users/ayaz/Library/Caches/org.scalameta.metals/dap-client.trace.json
+2025.07.31 06:23:53 INFO  Starting debug proxy for [com.adthena.basket.domain.BasketSpec(Basket should start empty)]
+2025.07.31 06:23:53 INFO  Initialized Scala 3 decoder in 0 milliseconds
+2025.07.31 06:23:53 INFO  Trying to attach to remote debuggee VM localhost:60609 .
+2025.07.31 06:23:53 INFO  Attaching to debuggee VM succeeded.
+2025.07.31 06:23:53 INFO  Canceling debug proxy for [com.adthena.basket.domain.BasketSpec(Basket should start empty)]
+2025.07.31 06:23:53 INFO  Closing debug server tcp://0.0.0.0:60605
+2025.07.31 07:11:48 INFO  tracing is disabled for protocol dap-server, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/ayaz/Library/CloudStorage/OneDrive-Personal/Desktop/odmin-projects/scala-coursera/shopping-basket/.metals/dap-server.trace.json or /Users/ayaz/Library/Caches/org.scalameta.metals/dap-server.trace.json
+2025.07.31 07:11:48 INFO  tracing is disabled for protocol dap-client, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/ayaz/Library/CloudStorage/OneDrive-Personal/Desktop/odmin-projects/scala-coursera/shopping-basket/.metals/dap-client.trace.json or /Users/ayaz/Library/Caches/org.scalameta.metals/dap-client.trace.json
+2025.07.31 07:11:48 INFO  Starting debug proxy for [com.adthena.basket.domain.BasketSpec(Basket should start empty)]
+2025.07.31 07:11:48 INFO  Initialized Scala 3 decoder in 0 milliseconds
+2025.07.31 07:11:48 INFO  Trying to attach to remote debuggee VM localhost:61357 .
+2025.07.31 07:11:48 INFO  Attaching to debuggee VM succeeded.
+2025.07.31 07:11:49 INFO  Canceling debug proxy for [com.adthena.basket.domain.BasketSpec(Basket should start empty)]
+2025.07.31 07:11:48 INFO  Closing debug server tcp://0.0.0.0:61353
+2025.07.31 07:12:27 INFO  compiling root-test (1 scala source)
+2025.07.31 07:12:27 INFO  time: compiled root-test in 0.25s
+2025.07.31 07:12:30 INFO  tracing is disabled for protocol dap-server, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/ayaz/Library/CloudStorage/OneDrive-Personal/Desktop/odmin-projects/scala-coursera/shopping-basket/.metals/dap-server.trace.json or /Users/ayaz/Library/Caches/org.scalameta.metals/dap-server.trace.json
+2025.07.31 07:12:30 INFO  tracing is disabled for protocol dap-client, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/ayaz/Library/CloudStorage/OneDrive-Personal/Desktop/odmin-projects/scala-coursera/shopping-basket/.metals/dap-client.trace.json or /Users/ayaz/Library/Caches/org.scalameta.metals/dap-client.trace.json
+2025.07.31 07:12:30 INFO  Starting debug proxy for [com.adthena.basket.domain.BasketSpec(Basket should start empty)]
+2025.07.31 07:12:30 INFO  Initialized Scala 3 decoder in 0 milliseconds
+2025.07.31 07:12:30 INFO  Trying to attach to remote debuggee VM localhost:61370 .
+2025.07.31 07:12:30 INFO  Attaching to debuggee VM succeeded.
+2025.07.31 07:12:31 INFO  Canceling debug proxy for [com.adthena.basket.domain.BasketSpec(Basket should start empty)]
+2025.07.31 07:12:30 INFO  Closing debug server tcp://0.0.0.0:61366
+2025.07.31 07:12:51 INFO  compiling root-test (1 scala source)
+2025.07.31 07:12:51 INFO  time: compiled root-test in 0.22s
+2025.07.31 07:12:57 INFO  tracing is disabled for protocol dap-server, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/ayaz/Library/CloudStorage/OneDrive-Personal/Desktop/odmin-projects/scala-coursera/shopping-basket/.metals/dap-server.trace.json or /Users/ayaz/Library/Caches/org.scalameta.metals/dap-server.trace.json
+2025.07.31 07:12:57 INFO  tracing is disabled for protocol dap-client, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/ayaz/Library/CloudStorage/OneDrive-Personal/Desktop/odmin-projects/scala-coursera/shopping-basket/.metals/dap-client.trace.json or /Users/ayaz/Library/Caches/org.scalameta.metals/dap-client.trace.json
+2025.07.31 07:12:57 INFO  Starting debug proxy for [com.adthena.basket.domain.BasketSpec(Basket should start empty)]
+2025.07.31 07:12:57 INFO  Initialized Scala 3 decoder in 0 milliseconds
+2025.07.31 07:12:57 INFO  Trying to attach to remote debuggee VM localhost:61402 .
+2025.07.31 07:12:57 INFO  Attaching to debuggee VM succeeded.
+2025.07.31 07:12:58 INFO  Canceling debug proxy for [com.adthena.basket.domain.BasketSpec(Basket should start empty)]
+2025.07.31 07:12:57 INFO  Closing debug server tcp://0.0.0.0:61398
+2025.07.31 07:13:05 INFO  tracing is disabled for protocol dap-server, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/ayaz/Library/CloudStorage/OneDrive-Personal/Desktop/odmin-projects/scala-coursera/shopping-basket/.metals/dap-server.trace.json or /Users/ayaz/Library/Caches/org.scalameta.metals/dap-server.trace.json
+2025.07.31 07:13:05 INFO  tracing is disabled for protocol dap-client, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/ayaz/Library/CloudStorage/OneDrive-Personal/Desktop/odmin-projects/scala-coursera/shopping-basket/.metals/dap-client.trace.json or /Users/ayaz/Library/Caches/org.scalameta.metals/dap-client.trace.json
+2025.07.31 07:13:05 INFO  Starting debug proxy for [com.adthena.basket.domain.BasketSpec(Basket should add single item correctly)]
+2025.07.31 07:13:05 INFO  Initialized Scala 3 decoder in 0 milliseconds
+2025.07.31 07:13:05 INFO  Trying to attach to remote debuggee VM localhost:61412 .
+2025.07.31 07:13:05 INFO  Attaching to debuggee VM succeeded.
+2025.07.31 07:13:05 INFO  Canceling debug proxy for [com.adthena.basket.domain.BasketSpec(Basket should add single item correctly)]
+2025.07.31 07:13:05 INFO  Closing debug server tcp://0.0.0.0:61408
+Jul 31, 2025 7:20:35 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
